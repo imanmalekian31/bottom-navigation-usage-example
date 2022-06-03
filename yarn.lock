@@ -2182,10 +2182,10 @@ bootstrap-vue@^2.21.2:
   resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-4.6.1.tgz#bc25380c2c14192374e8dec07cf01b2742d222a2"
   integrity sha512-0dj+VgI9Ecom+rvvpNZ4MUZJz8dcX7WCX+eTID9+/8HgOkv3dsRzi8BGeZJCQU6flWQVYxwTQnEZFrmJSEO7og==
 
-bottom-navigation-vue@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/bottom-navigation-vue/-/bottom-navigation-vue-2.2.0.tgz#07382f07a0b078ff8374786c859bad639ec4009e"
-  integrity sha512-imkzftPwWxv1yagfhhckDJMWvfJ4KtPetzPtrb5BOrDs51LNVs4MxCZmgmyFDrcJd981spBOFiXOmdQ0jloKYQ==
+bottom-navigation-vue@^2.5.1:
+  version "2.5.1"
+  resolved "https://registry.yarnpkg.com/bottom-navigation-vue/-/bottom-navigation-vue-2.5.1.tgz#1d02d2505976d4d1eb3c1d02c3f3276d551ee1d1"
+  integrity sha512-cGTJO4HRnd53H10D8yDwnIYKQ6ctjFOlkHGhxNAIDz1RYMWNfkK02fbYAFJM6+uSG5Mrxe8rhWFP3JU3r1v0eg==
 
 boxen@^5.0.1:
   version "5.1.2"
