@@ -6,10 +6,8 @@
 </template>
 
 <script>
-import { CurvedBottomNavigation } from 'bottom-navigation-vue'
 
 export default {
-  components: { CurvedBottomNavigation },
   data: () => ({
     selected: 1,
     options: [
